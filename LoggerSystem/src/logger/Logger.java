@@ -30,7 +30,7 @@ public class Logger {
         try {
             writer = new BufferedWriter(new FileWriter(name, true));
         } catch (IOException e) {
-            System.out.println("Error opening log file: " + e.getMessage());
+            System.out.println("Error opening log files: " + e.getMessage());
         }
     }
 
