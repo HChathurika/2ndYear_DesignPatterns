@@ -1,10 +1,8 @@
-# IntelliJ project files
+# IntelliJ
 .idea/
 *.iml
-
-# Compiled Java classes
+# Compiled Java
 out/
 *.class
-
 # Logs
 *.log
