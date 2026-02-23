@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Composite" />
         <module name="State" />
+        <module name="Template" />
       </profile>
     </annotationProcessing>
   </component>
