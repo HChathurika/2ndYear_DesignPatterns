@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/State/pom.xml" />
         <option value="$PROJECT_DIR$/Template/pom.xml" />
         <option value="$PROJECT_DIR$/Strategy/pom.xml" />
+        <option value="$PROJECT_DIR$/Chain_of_responsibility/pom.xml" />
       </list>
     </option>
   </component>

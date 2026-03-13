@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Strategy" />
+        <module name="Chain_of_responsibility" />
         <module name="Composite" />
         <module name="State" />
         <module name="Template" />
