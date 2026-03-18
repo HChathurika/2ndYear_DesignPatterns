@@ -7,8 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Strategy" />
+        <module name="Proxy" />
         <module name="Chain_of_responsibility" />
-        <module name="Composite" />
+        <module name="goal-composite" />
         <module name="State" />
         <module name="Template" />
       </profile>

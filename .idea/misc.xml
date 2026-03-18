@@ -4,15 +4,16 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/Composite/pom.xml" />
         <option value="$PROJECT_DIR$/State/pom.xml" />
-        <option value="$PROJECT_DIR$/Template/pom.xml" />
         <option value="$PROJECT_DIR$/Strategy/pom.xml" />
+        <option value="$PROJECT_DIR$/Template/pom.xml" />
+        <option value="$PROJECT_DIR$/Composite/pom.xml" />
         <option value="$PROJECT_DIR$/Chain_of_responsibility/pom.xml" />
+        <option value="$PROJECT_DIR$/Proxy/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" default="true" project-jdk-name="openjdk-25" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="temurin-17" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

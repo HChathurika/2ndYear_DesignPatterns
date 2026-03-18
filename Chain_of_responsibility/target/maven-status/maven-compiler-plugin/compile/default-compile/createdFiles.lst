@@ -1,0 +1,9 @@
+feedback\model\Message.class
+feedback\handler\FeedbackHandler.class
+org\example\Main.class
+feedback\handler\CompensationClaimHandler.class
+feedback\handler\ContactRequestHandler.class
+feedback\handler\DevelopmentSuggestionHandler.class
+feedback\handler\GeneralFeedbackHandler.class
+feedback\Main.class
+feedback\model\MessageType.class
