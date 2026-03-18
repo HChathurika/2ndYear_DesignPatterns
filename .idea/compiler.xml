@@ -6,11 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Strategy" />
         <module name="Proxy" />
         <module name="Chain_of_responsibility" />
-        <module name="goal-composite" />
+        <module name="Visitor" />
         <module name="State" />
+        <module name="Strategy" />
+        <module name="goal-composite" />
         <module name="Template" />
       </profile>
     </annotationProcessing>
