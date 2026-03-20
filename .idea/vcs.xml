@@ -5,6 +5,5 @@
     <mapping directory="$PROJECT_DIR$/AsciiUIFactory" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Proxy" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/RPGMapGenerator" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/lecdemo_3011" vcs="Git" />
   </component>
 </project>

@@ -33,7 +33,7 @@ public class Main {
 
         // 2) Remove with a single method call
         dev.remove(bob);
-
+// checking the report after removing Bob
         System.out.println("Total salary after removing Bob = " + organization.getTotalSalary());
 
         // 3) Print whole structure in XML with a single method call
