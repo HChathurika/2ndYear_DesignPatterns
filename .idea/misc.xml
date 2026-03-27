@@ -11,6 +11,7 @@
         <option value="$PROJECT_DIR$/Chain_of_responsibility/pom.xml" />
         <option value="$PROJECT_DIR$/Proxy/pom.xml" />
         <option value="$PROJECT_DIR$/Visitor/pom.xml" />
+        <option value="$PROJECT_DIR$/Builder/pom.xml" />
       </list>
     </option>
   </component>

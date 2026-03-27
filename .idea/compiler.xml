@@ -10,6 +10,7 @@
         <module name="Chain_of_responsibility" />
         <module name="Visitor" />
         <module name="State" />
+        <module name="Builder" />
         <module name="Strategy" />
         <module name="goal-composite" />
         <module name="Template" />
