@@ -12,6 +12,7 @@
         <module name="State" />
         <module name="Builder" />
         <module name="Strategy" />
+        <module name="Adapter" />
         <module name="goal-composite" />
         <module name="Template" />
       </profile>
