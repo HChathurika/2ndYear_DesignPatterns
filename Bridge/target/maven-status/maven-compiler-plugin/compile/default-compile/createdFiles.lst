@@ -1,0 +1,10 @@
+refactoring_guru\bridge\devices\SmartTv.class
+refactoring_guru\bridge\remotes\Remote.class
+refactoring_guru\bridge\devices\Radio.class
+org\example\Main.class
+refactoring_guru\bridge\devices\Device.class
+refactoring_guru\bridge\remotes\BasicRemote.class
+refactoring_guru\bridge\remotes\AdvancedRemote.class
+refactoring_guru\bridge\remotes\SmartRemote.class
+refactoring_guru\bridge\devices\Tv.class
+refactoring_guru\bridge\Demo.class
