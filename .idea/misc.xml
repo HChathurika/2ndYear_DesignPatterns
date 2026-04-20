@@ -21,6 +21,7 @@
         <option value="$PROJECT_DIR$/Adapter/pom.xml" />
         <option value="$PROJECT_DIR$/Bridge/pom.xml" />
         <option value="$PROJECT_DIR$/RPGMapFlyweight/pom.xml" />
+        <option value="$PROJECT_DIR$/BookRecommendationSystem/pom.xml" />
       </list>
     </option>
   </component>

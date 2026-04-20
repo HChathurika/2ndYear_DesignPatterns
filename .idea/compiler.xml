@@ -16,6 +16,7 @@
         <module name="Adapter" />
         <module name="goal-composite" />
         <module name="Bridge" />
+        <module name="BookRecommendationSystem" />
         <module name="Template" />
       </profile>
     </annotationProcessing>
