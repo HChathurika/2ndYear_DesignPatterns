@@ -6,18 +6,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Proxy" />
-        <module name="Chain_of_responsibility" />
         <module name="Visitor" />
-        <module name="State" />
         <module name="RPGMapFlyweight" />
         <module name="Builder" />
-        <module name="Strategy" />
         <module name="Adapter" />
-        <module name="goal-composite" />
-        <module name="Bridge" />
         <module name="BookRecommendationSystem" />
         <module name="Template" />
+        <module name="ChatApp" />
+        <module name="Proxy" />
+        <module name="Chain_of_responsibility" />
+        <module name="State" />
+        <module name="Strategy" />
+        <module name="goal-composite" />
+        <module name="Bridge" />
       </profile>
     </annotationProcessing>
   </component>
