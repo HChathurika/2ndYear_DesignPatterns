@@ -13,6 +13,7 @@
         <module name="BookRecommendationSystem" />
         <module name="Template" />
         <module name="ChatApp" />
+        <module name="FibonacciIteratorPatternuntitled" />
         <module name="Proxy" />
         <module name="Chain_of_responsibility" />
         <module name="State" />

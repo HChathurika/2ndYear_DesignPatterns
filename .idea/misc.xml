@@ -23,10 +23,11 @@
         <option value="$PROJECT_DIR$/RPGMapFlyweight/pom.xml" />
         <option value="$PROJECT_DIR$/BookRecommendationSystem/pom.xml" />
         <option value="$PROJECT_DIR$/ChatApp/pom.xml" />
+        <option value="$PROJECT_DIR$/FibonacciIteratorPatternuntitled/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="temurin-17" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" project-jdk-name="temurin-21" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
   <component name="SuppressionsComponent">
