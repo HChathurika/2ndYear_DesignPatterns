@@ -18,6 +18,7 @@
         <module name="Chain_of_responsibility" />
         <module name="State" />
         <module name="Strategy" />
+        <module name="API-Facade-Assignment" />
         <module name="goal-composite" />
         <module name="Bridge" />
       </profile>
