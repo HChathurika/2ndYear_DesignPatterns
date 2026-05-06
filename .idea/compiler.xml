@@ -9,6 +9,7 @@
         <module name="Visitor" />
         <module name="RPGMapFlyweight" />
         <module name="Builder" />
+        <module name="pixel-art-editor" />
         <module name="Adapter" />
         <module name="BookRecommendationSystem" />
         <module name="Template" />
@@ -23,5 +24,8 @@
         <module name="Bridge" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="PixelArtEditor" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
